@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.17;
 
 
-contract CryptoSchool {
+contract TaliaKaza-sc {
 
     address public owner;
     mapping (address => uint) public payments;
